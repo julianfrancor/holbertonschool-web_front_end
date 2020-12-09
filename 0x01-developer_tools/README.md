@@ -9,6 +9,7 @@ Read or watch:
 * [Get Started With Viewing And Changing CSS  |  Tools for Web Developers](https://intranet.hbtn.io/rltoken/RA0zyadwvl6OmoVYMDp-3Q)
 * [Keeping it simple with the JavaScript console - LogRocket Blog](https://intranet.hbtn.io/rltoken/ePHot6ZwOgXG6Cynq3E_-g)
 * [Inspect Network Activity - Chrome DevTools 101](https://intranet.hbtn.io/rltoken/hv47k9yKKsyoG2AEL73Ajw)
+* [How to enable ‘print view’ in Google Chrome debugger](https://www.itsupportguides.com/knowledge-base/google-chrome/how-to-enable-print-view-in-google-chrome-debugger/)
 
 ---
 ## Learning Objectives:bulb:
