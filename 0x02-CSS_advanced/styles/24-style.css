@@ -172,12 +172,13 @@ ul.row {
   display: block;
 }
 
+/* child element > */
 .social-link > svg {
   fill: var(--text-color);
 }
 
 .card-services .card-title {
-  margin: 0%;
+  margin: 0;
 }
 
 .card-services a {
