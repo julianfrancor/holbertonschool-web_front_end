@@ -90,10 +90,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: auto;
 }
 
-.footer {
-  padding: var(--footer-padding);
-}
-
 .navbar-menu {
   float: right;
 }
@@ -123,7 +119,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--nav-item-link-hover);
 }
 
-ul .row {
+ul.row {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -141,13 +137,17 @@ ul .row {
   padding: 0.5rem;
 }
 
+.footer {
+  padding: var(--footer-padding);
+}
+
 .footer-copyright {
   margin: 0;
   font-size: var(--font-size-small);
   color: var(--text-color);
 }
 
-.footer .ul {
+.footer ul {
   text-align: right;
 }
 
