@@ -20,6 +20,8 @@ body {
   line-height: var(--line-height-base);
 }
 
+/* Links */
+
 a:link {
   color: #161616;
   text-decoration: none;
@@ -37,10 +39,12 @@ a:active {
   background-color: var(--color-light-grey);
 }
 
+/* Button */
+
 .button {
   display: var(--button-display);
   padding: var(--button-padding);
-  border-style: var(--button-border);
+  border: var(--button-border);
   font-size: var(--button-font-size);
   color: var(--button-color);
   text-decoration: var(--button-text-decoration);
