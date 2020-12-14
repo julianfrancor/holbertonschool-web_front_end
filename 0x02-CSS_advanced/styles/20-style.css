@@ -151,8 +151,14 @@ ul.row {
   text-align: right;
 }
 
-.row {
-  grid-area: none;
+.row::before {
+  content: none;
+  display: table;
+  float: none;
+}
+
+.row::after {
+  content: none;
   display: table;
   float: none;
 }
