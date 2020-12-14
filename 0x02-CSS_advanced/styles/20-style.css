@@ -152,7 +152,7 @@ ul.row {
 }
 
 .row {
-  content: none;
+  grid-area: none;
   display: table;
   float: none;
 }
