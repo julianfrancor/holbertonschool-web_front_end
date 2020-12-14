@@ -151,12 +151,6 @@ ul.row {
   text-align: right;
 }
 
-.row::before {
-  content: "";
-  display: table;
-  float: none;
-}
-
 .row::after {
   content: "";
   display: table;
