@@ -152,13 +152,13 @@ ul.row {
 }
 
 .row::before {
-  content: none;
+  content: "";
   display: table;
   float: none;
 }
 
 .row::after {
-  content: none;
+  content: "";
   display: table;
   float: none;
 }
