@@ -33,6 +33,10 @@ a:hover {
   text-decoration: underline;
 }
 
+a:active {
+  background-color: var(--color-light-grey);
+}
+
 .button {
   display: var(--button-display);
   padding: var(--button-padding);
@@ -46,10 +50,6 @@ a:hover {
   color: var(--button-hover-color);
   text-decoration: var(--button-hover-text-decoration);
   background-color: var(--button-hover-text-decoration);
-}
-
-a:active {
-  background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
