@@ -319,10 +319,7 @@ ul.row {
 
 .card-work .card-title a {
   display: block;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
+  position: 0;
   content: "";
 }
 .card-work:hover .card-title {
