@@ -2,7 +2,7 @@
 $headers: 5;
 
 @for $i from 1 through $headers {
-  .h#{$i} {
+  h#{$i} {
     font-size: #{$i}px;
   }
 }
