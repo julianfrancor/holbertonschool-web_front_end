@@ -199,11 +199,6 @@
   
   /* Navbar
       ============================= */
-  
-  .navbar-menu {
-    float: right;
-  }
-  
   .nav {
     margin: 0;
     padding: 0;
@@ -248,13 +243,7 @@
   }
   
   /* Header
-      ============================= */
-      
-  .header-container {
-    display: flex;
-    justify-content: space-between;
-  }
-
+      ============================= */ 
   .header {
     padding: var(--header-padding);
     position: relative;
@@ -262,7 +251,11 @@
     background: transparent;
   }
   
-  
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
   /* Footer
       ============================= */
   
