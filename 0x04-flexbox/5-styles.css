@@ -249,7 +249,12 @@
   
   /* Header
       ============================= */
-  
+      
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
   .header {
     padding: var(--header-padding);
     position: relative;
@@ -257,10 +262,6 @@
     background: transparent;
   }
   
-  .header-container {
-    display: flex;
-    justify-content: space-between;
-  }
   
   /* Footer
       ============================= */
