@@ -284,15 +284,12 @@
   }
 
   @media (max-width: 767px){
-    .navbar-menu {
-      display: none;
-    }
-
     :root {
       --nav-item-margin: 0;
     }
-
+    
     .navbar-menu {
+      display: none;
       flex: 1;
     }
 
@@ -302,7 +299,6 @@
       max-height: 0;
       transition: max-height .2s ease-out;
     }
-
   }
   
   /* Header
