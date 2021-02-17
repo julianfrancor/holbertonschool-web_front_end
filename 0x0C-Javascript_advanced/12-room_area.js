@@ -4,7 +4,7 @@ let roomDimensions = {
   width: 50,
   length: 100,
   getArea: function(){
-    return (width * length)
+    return (this.width * this.length)
   }
 }
 
