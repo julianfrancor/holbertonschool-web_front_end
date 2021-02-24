@@ -6,6 +6,13 @@ Read or watch:
 * [Grid options](https://getbootstrap.com/docs/4.0/layout/grid/)
 * [Ordering elements](https://getbootstrap.com/docs/4.0/utilities/flex/#order)
 * [Offsetting columns](https://getbootstrap.com/docs/4.0/layout/grid/#offsetting-columns)
+* [Borders](https://getbootstrap.com/docs/4.0/utilities/borders/)
+* [Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/)
+* [Margin and padding](https://getbootstrap.com/docs/4.0/layout/utilities-for-layout/#margin-and-padding)
+* [list-group-horizontal](https://getbootstrap.com/docs/4.4/components/list-group/)
+* [Buttons](https://getbootstrap.com/docs/4.4/components/buttons/)
+* [container-fluid - or a full width container, spanning the entire width of the viewport.](https://getbootstrap.com/docs/4.4/layout/overview/#fluid)
+* [Tables](https://getbootstrap.com/docs/4.4/content/tables/)
 
 ---
 ## Learning Objectives:bulb:
